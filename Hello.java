@@ -1,6 +1,6 @@
 public class Hello {
   public static void main(string[] args) {
-  // displays "Hellow Everyone" in console
+  // displays "Hello Everyone" in console
   System.out.println("Hello Everyone");
   }
 }
